@@ -6,12 +6,13 @@ plaintextmessage, and later decrypt it using the same key.
 
 ## Requirements
 1. Python 3.6 or higher;
-2. `Cryptography` library.
+2. `Cryptography` library;
+3. Works on Linux, macOS, Windows.
 
 ## Installation
-1. Clone the repository (or download the script directly).
+1. Clone the repository (or download the script directly);
 2. Install the required library:
-    `pip install cryptography` or `pip3 install cryptography`
+    `pip install cryptography` or `pip3 install cryptography`.
 
 ## Usage
 1. Run the script from your terminal:
